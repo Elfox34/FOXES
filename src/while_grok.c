@@ -24,8 +24,10 @@ int main()
 {
     int a;
     int suma = 0;
+    printf("Hola mundo");
     printf("Dame un numero entero \n");
     scanf("%d", &a);
+
 
     while (a != 0) // al poner 0 va a salir del while
     {
